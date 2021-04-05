@@ -36,8 +36,7 @@ The price field includes the closing price of the security on the previous day a
 The information in this file is raw data — data that are meant to be used as input to another program. The data items are provided as a "pipe delimited" text file. Although the file can be viewed in any program that accepts ASCII text (for example, a word processor), the data fields are best viewed when imported into a program that accepts delimited data, such as a spreadsheet or a statistical application. 
 
 # Data Layout
-![name-of-you-image](https://github.com/ketsha/
-Failure-To-Deliver-and-Settle-Financial-Instruments/blob/main/images/FTD-Dataset.jpg?raw=true)
+![name-of-you-image](https://github.com/ketsha/Failure-To-Deliver-and-Settle-Financial-Instruments/blob/main/images/FTD-Dataset.jpg?raw=true)
 
 
 
