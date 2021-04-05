@@ -20,5 +20,11 @@ Compliance with Regulation SHO began on January 3, 2005. Regulation SHO was adop
 
 Due to continued concerns about failures to deliver, and to promote market stability and preserve investor confidence, the Commission has amended Regulation SHO several times since 2005 to eliminate certain exceptions, strengthen certain requirements and reintroduce the price test restriction.
 
+As initially adopted, Regulation SHO included two major exceptions to the close-out requirement: the “grandfather” provision and the “options market maker” exception. Due to continued concerns about failures to deliver, and the fact that the Commission continued to observe certain securities with failure to deliver positions that were not being closed out under then existing requirements, in 2007 the Commission eliminated the “grandfather” provision and in 2008 the Commission eliminated the “options market maker” exception.
+
+In addition, the Commission adopted temporary Rule 204T in 2008 and final Rule 204 in 2009, which strengthened further the close-out requirements of Regulation SHO by applying close-out requirements to failures to deliver resulting from sales of all equity securities and reducing the time-frame within which failures to deliver must be closed out.
+
+In 2010, the Commission adopted Rule 201 of Regulation SHO. Rule 201 restricts the price at which short sales may be effected when a stock has experienced significant downward price pressure. Rule 201 is designed to prevent short selling, including potentially manipulative or abusive short selling, from driving down further the price of a security that has already experienced a significant intra-day price decline, and to facilitate the ability of long sellers to sell first upon such a decline.
+
 
 # Understanding Failure To Deliver
