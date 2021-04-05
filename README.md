@@ -36,19 +36,8 @@ The price field includes the closing price of the security on the previous day a
 The information in this file is raw data — data that are meant to be used as input to another program. The data items are provided as a "pipe delimited" text file. Although the file can be viewed in any program that accepts ASCII text (for example, a word processor), the data fields are best viewed when imported into a program that accepts delimited data, such as a spreadsheet or a statistical application. 
 
 # Data Layout
-Field Name	      Field Description	               Maximum Size
-
-SETTLEMENT DATE	  SETTLEMENT DATE	                 Number - 8 digits
-
-CUSIP	            CUSIP	                           9 characters
-
-SYMBOL	          TICKER SYMBOL	                   10 characters
-
-QUANTITY (FAILS)	TOTAL FAILURE-TO-DELIVER SHARES	 Number - unlimited
-
-DESCRIPTION	      COMPANY NAME	                   30 characters
-
-PRICE	            CLOSING PRICE ON PREVIOUS DAY	   Number - unlimited
+![name-of-you-image](https://github.com/ketsha/
+Failure-To-Deliver-and-Settle-Financial-Instruments/blob/main/images/SBA%20Loan%20High%20Level.png?raw=true)
 
 
 
