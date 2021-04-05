@@ -13,6 +13,10 @@ Failures to deliver may result from either a short or a long sale. There may be 
 
 Subsequently, the pending failure to deliver creates what are called "phantom shares" in the marketplace, which may dilute the price of the underlying stock. In other words, the buyer on the other side of such trades may own shares, on paper, which do not actually exist.
 
+# Chain Reactions of Failure to Deliver Events
+Several potential problems occur when trades do not settle appropriately due to failure to deliver. Both equity and derivative markets can have a failure to deliver occurrence.
+
+During the financial crisis of 2008, failures to deliver increased. Much the same as check kiting, where someone writes a check but has not yet secured the funds to cover it, sellers did not surrender securities sold on time. They delayed the process to buy securities at a lower price for delivery. Regulators still need to address this practice.
 
 # Regulation SHO
 Compliance with Regulation SHO began on January 3, 2005. Regulation SHO was adopted to update short sale regulation in light of numerous market developments since short sale regulation was first adopted in 1938 and to address concerns regarding persistent failures to deliver and potentially abusive “naked” short selling.
@@ -27,4 +31,4 @@ In addition, the Commission adopted temporary Rule 204T in 2008 and final Rule 2
 In 2010, the Commission adopted Rule 201 of Regulation SHO. Rule 201 restricts the price at which short sales may be effected when a stock has experienced significant downward price pressure. Rule 201 is designed to prevent short selling, including potentially manipulative or abusive short selling, from driving down further the price of a security that has already experienced a significant intra-day price decline, and to facilitate the ability of long sellers to sell first upon such a decline.
 
 
-# Understanding Failure To Deliver
+
