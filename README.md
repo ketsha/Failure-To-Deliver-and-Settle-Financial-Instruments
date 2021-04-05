@@ -1,4 +1,4 @@
-# Business Objective:
+# Business Objective
 The core business objective of this project is to showcase how to effectively manage Ingestion, Processing, Cleansing, Enrichment, Modeling and serving of the Failure To Deliver data for Financial Instruments using Microsoft Azure and Enterprise data technologies to solve this Capital Market Industry business problem.
 
 # What is Failure To Deliver and Settle
