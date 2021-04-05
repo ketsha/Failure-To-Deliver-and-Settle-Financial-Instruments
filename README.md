@@ -37,11 +37,17 @@ The information in this file is raw data — data that are meant to be used as i
 
 # Data Layout
 Field Name	      Field Description	               Maximum Size
+
 SETTLEMENT DATE	  SETTLEMENT DATE	                 Number - 8 digits
+
 CUSIP	            CUSIP	                           9 characters
+
 SYMBOL	          TICKER SYMBOL	                   10 characters
+
 QUANTITY (FAILS)	TOTAL FAILURE-TO-DELIVER SHARES	 Number - unlimited
+
 DESCRIPTION	      COMPANY NAME	                   30 characters
+
 PRICE	            CLOSING PRICE ON PREVIOUS DAY	   Number - unlimited
 
 
