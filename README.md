@@ -27,13 +27,22 @@ In addition, the Commission adopted temporary Rule 204T in 2008 and final Rule 2
 In 2010, the Commission adopted Rule 201 of Regulation SHO. Rule 201 restricts the price at which short sales may be effected when a stock has experienced significant downward price pressure. Rule 201 is designed to prevent short selling, including potentially manipulative or abusive short selling, from driving down further the price of a security that has already experienced a significant intra-day price decline, and to facilitate the ability of long sellers to sell first upon such a decline.
 
 # What you should know about the Datasets
-This text file contains the date, CUSIP numbers, ticker symbols, issuer name, price, and total number of fails-to-deliver (i.e., the balance level outstanding) recorded in the National Securities Clearing Corporation's ("NSCC") Continuous Net Settlement (CNS) system aggregated over all NSCC members. Data prior to September 16, 2008 include only securities with a balance of total fails-to-deliver of at least 10,000 shares as of a particular settlement date. Data on or after September 16, 2008 include all securities with a balance of total fails-to-deliver as of a particular settlement date. The data include fails-to-deliver in equity securities.
+This text file contains the date, CUSIP numbers, ticker symbols, issuer name, price, and total number of fails-to-deliver (i.e., the balance level outstanding) recorded in the National Securities Clearing Corporation's ("NSCC") Continuous Net Settlement (CNS) system aggregated over all NSCC members. Data includes all securities with a balance of total fails-to-deliver as of a particular settlement date. The data include fails-to-deliver in equity securities.
 
-each month is contained in two files. The first half of a given month is available at the end of the month. The second half of a given month is available at about the 15th of the next month. We cannot guarantee that the data will be posted by a particular date. We cannot guarantee the accuracy of the data.
+Each month is contained in two files. We cannot guarantee the accuracy of the data.
 
 The price field includes the closing price of the security on the previous day as long as the price is available and is greater than one penny. When the price is not available or is less than a penny, the field is filled with a “.”. Even when prices are included in the data, we cannot guarantee that this price matches closing prices available from other sources.
 
-The information in this file is raw data — data that are meant to be used as input to another program. The data items are provided as a "pipe delimited" text file. Although the file can be viewed in any program that accepts ASCII text (for example, a word processor), the data fields are best viewed when imported into a program that accepts delimited data, such as a spreadsheet or a statistical application. The record layout and maximum field sizes are shown below for those who want to process the data into another form.
+The information in this file is raw data — data that are meant to be used as input to another program. The data items are provided as a "pipe delimited" text file. Although the file can be viewed in any program that accepts ASCII text (for example, a word processor), the data fields are best viewed when imported into a program that accepts delimited data, such as a spreadsheet or a statistical application. 
+
+# Data Layout
+Field Name	      Field Description	               Maximum Size
+SETTLEMENT DATE	  SETTLEMENT DATE	                 Number - 8 digits
+CUSIP	            CUSIP	                           9 characters
+SYMBOL	          TICKER SYMBOL	                   10 characters
+QUANTITY (FAILS)	TOTAL FAILURE-TO-DELIVER SHARES	 Number - unlimited
+DESCRIPTION	      COMPANY NAME	                   30 characters
+PRICE	            CLOSING PRICE ON PREVIOUS DAY	   Number - unlimited
 
 
 
