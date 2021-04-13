@@ -1,5 +1,5 @@
 # Business Objective
-The core business objective of this project is to showcase how to effectively manage Ingestion, Processing, Cleansing, Enrichment, Modeling and serving of the Failure To Deliver data for Financial Instruments using Microsoft Azure and Enterprise data technologies to solve this Capital Market Industry business problem.
+The core business objective of this project is process data for Stocks, Options and Futures transactions that could not be delivered and hence failed settlement. This data can be transmitted in real-time or in batches. The goal is to effectively Ingest, Process, Cleanse, Enrich, Model, Serv and visualize the Failure To Deliver data for Financial Instruments using Microsoft Azure and Enterprise data technologies.
 
 # What is Failure To Deliver and Settle Stocks, Options and Futures
 Failure to deliver refers to a situation where one party in a trading contract does not deliver on their obligation. Such failures occur when a buyer (the party with a long position) does not have enough money to take delivery and pay for the transaction at settlement. A failure can also occur when the seller (the party with a short position) does not own all or any of the underlying assets required at settlement, and so cannot make the delivery.
