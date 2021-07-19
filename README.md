@@ -28,6 +28,8 @@ In addition, the Commission adopted temporary Rule 204T in 2008 and final Rule 2
 
 In 2010, the Commission adopted Rule 201 of Regulation SHO. Rule 201 restricts the price at which short sales may be effected when a stock has experienced significant downward price pressure. Rule 201 is designed to prevent short selling, including potentially manipulative or abusive short selling, from driving down further the price of a security that has already experienced a significant intra-day price decline, and to facilitate the ability of long sellers to sell first upon such a decline.
 
+
+
 # What you should know about the Datasets
 This text file contains the date, CUSIP numbers, ticker symbols, issuer name, price, and total number of fails-to-deliver (i.e., the balance level outstanding) recorded in the National Securities Clearing Corporation's ("NSCC") Continuous Net Settlement (CNS) system aggregated over all NSCC members. Data includes all securities with a balance of total fails-to-deliver as of a particular settlement date. The data include fails-to-deliver in equity securities.
 
@@ -39,6 +41,9 @@ The information in this file is raw data — data that are meant to be used as i
 
 # Data Layout
 ![name-of-you-image](https://github.com/ketsha/Failure-To-Deliver-and-Settle-Financial-Instruments/blob/main/images/FTD-Dataset.jpg?raw=true)
+
+# Architecture
+![name-of-you-image](https://github.com/ketsha/Failure-To-Deliver-and-Settle-Financial-Instruments/blob/main/images/Failure%20to%20Settle.jpg?raw=true)
 
 
 
